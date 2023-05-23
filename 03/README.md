@@ -8,6 +8,6 @@ page 3
 ![image](https://user-images.githubusercontent.com/130117169/236104293-165f841e-0fc7-49eb-b1f4-b9adb07dc80a.png)
 ---
 page 4
-![image](https://user-images.githubusercontent.com/130117169/236104314-2b0051aa-8bcd-45d7-bb1b-bd744f010967.png)
+![image](https://github.com/SU-sumico/edse/assets/130117169/0b5b868d-50f4-4996-928a-459a5e124557)
 ---
 
